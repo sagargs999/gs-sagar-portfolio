@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-labelledby="title desc">
+  <title id="title">GS Sagar profile photo placeholder</title>
+  <desc id="desc">Placeholder for GS Sagar's profile photo</desc>
+  <rect width="500" height="500" rx="250" fill="#171717"/>
+  <circle cx="250" cy="205" r="90" fill="#303030"/>
+  <path d="M100 430c22-92 82-135 150-135s128 43 150 135" fill="#303030"/>
+  <text x="250" y="475" fill="#aaa" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">PHOTO PLACEHOLDER</text>
+</svg>
